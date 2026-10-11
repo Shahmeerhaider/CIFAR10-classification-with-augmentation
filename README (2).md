@@ -56,28 +56,34 @@ Take each screenshot from the notebook output, save it in the `screenshots` fold
 
 **1. Clean, shifted and augmented images** (the "Look at the data" cell)
 
-![Data samples](screenshots/data_samples.png)
+<img width="1229" height="836" alt="image" src="https://github.com/user-attachments/assets/fd8f29b7-3117-40ec-a1c3-2708cbee56e5" />
+
+<img width="837" height="472" alt="image" src="https://github.com/user-attachments/assets/456972a3-c75e-4313-a420-b89ee797b6a5" />
 
 **2. Baseline learning curves** (Part A plots)
 
-![Baseline curves](screenshots/baseline_curves.png)
+<img width="1139" height="773" alt="image" src="https://github.com/user-attachments/assets/e7542761-2b08-4f68-bfd4-2bad4451da1f" />
+
 
 **3. Ablation table and bar chart** (Part D)
 
-![Ablation results](screenshots/ablation_results.png)
+<img width="1143" height="499" alt="image" src="https://github.com/user-attachments/assets/d443d419-b65a-49dc-83bb-216177046049" />
 
 **4. Confusion matrix** (Part E)
 
-![Confusion matrix](screenshots/confusion_matrix.png)
+<img width="1095" height="764" alt="image" src="https://github.com/user-attachments/assets/5e6e1593-2795-47fa-b750-9a1c63edab83" />
+
 
 **5. Eight misclassified images with reasons** (Part E)
 
-![Misclassified images](screenshots/misclassified.png)
+<img width="1147" height="728" alt="image" src="https://github.com/user-attachments/assets/024756a3-0938-4109-8844-03510b2fb092" />
 
 **6. Hidden corruption test and test time augmentation** (Part E and F)
 
-![Hidden corruption and TTA](screenshots/hidden_and_tta.png)
+<img width="949" height="191" alt="image" src="https://github.com/user-attachments/assets/986f3302-1439-47d1-8b0d-322eecdf6741" />
+
 
 **7. Final summary output** (last cell)
 
-![Final summary](screenshots/final_summary.png)
+<img width="1035" height="521" alt="image" src="https://github.com/user-attachments/assets/c4941e91-1215-4b59-aff5-9592e046e43b" />
+
